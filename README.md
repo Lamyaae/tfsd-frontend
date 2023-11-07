@@ -14,23 +14,17 @@ Typescript version:
 
 More Practice:
 > [Vue 2 CRUD App with Vue Router & Axios](https://bezkoder.com/vue-js-crud-app/)
-
 > [Vue Pagination with Axios and API example](https://bezkoder.com/vue-pagination-axios/)
-
 > [Vue.js JWT Authentication with Vuex and Vue Router](https://bezkoder.com/jwt-vue-vuex-authentication/)
-
 > [Vue File Upload example using Axios](https://bezkoder.com/vue-axios-file-upload/)
 
 Fullstack with Node.js Express:
 > [Vue.js + Node.js Express + MySQL](https://bezkoder.com/vue-js-node-js-express-mysql-crud-example/)
-
 > [Vue.js + Node.js Express + PostgreSQL](https://bezkoder.com/vue-node-express-postgresql/)
-
 > [Vue.js + Node.js Express + MongoDB](https://bezkoder.com/vue-node-express-mongodb-mevn-crud/)
 
 Fullstack with Spring Boot:
 > [Vue.js + Spring Boot](https://bezkoder.com/spring-boot-vue-js-crud-example/)
-
 > [Vue.js + Spring Boot + MongoDB](https://bezkoder.com/spring-boot-vue-mongodb/)
 
 Fullstack with Django:
